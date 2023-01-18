@@ -8,7 +8,7 @@ export class FacebookAuthenticationService {
   ) {}
 
   async perform (params: FacebookAuthentication.Params): Promise<AuthenticationError> {
-    await this.loadFacebookUserApi.loadUser({ token: params.token })
+    await this.loadFacebookUserApi.loadUser(params)
     return new AuthenticationError()
   }
 }
