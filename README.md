@@ -2,7 +2,7 @@
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 [![Generic badge](https://img.shields.io/badge/status-development-yellow.svg)](https://shields.io/)
 
-# **Advanced Node API**
+# **Advanced Node with facebook API integration**
 
 ---
 
